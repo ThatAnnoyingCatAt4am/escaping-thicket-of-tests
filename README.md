@@ -1,11 +1,11 @@
 Escaping the thicket of tests
 =========
 
-The code here exists to illustrate and provide an example for the ideas of this article: _coming soon_. This is not an actively maintained repository. 
+The code here exists to illustrate and provide an example for the ideas of [this article](https://habr.com/ru/company/2gis/blog/463623/). This is not an actively maintained repository. 
 
 ---
 
-#####Contents:
+##### Contents:
 
 * [The test lifecycle functions, fixture generation and other stuff](../blob/master/src/main/scala)
 * [A test suite example](../blob/master/src/test/scala/MyTest.scala)
