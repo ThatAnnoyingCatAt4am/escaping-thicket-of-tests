@@ -1,7 +1,7 @@
 Escaping the thicket of tests
 =========
 
-The code here exists to illustrate and provide an example for the ideas of [this article](https://habr.com/ru/company/2gis/blog/463623/). This is not an actively maintained repository. 
+The code here exists to illustrate and provide an example for the ideas of this article: [in Russian](https://habr.com/post/463623/), [in English](https://habr.com/post/465211/). This is not an actively maintained repository. 
 
 ---
 
